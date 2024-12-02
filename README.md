@@ -3,6 +3,7 @@
 This repository contains different personal projects in Data Analysis using Tableau.
 
 Below are the basic dashboards of them.
+The data refers to sales in the various states of the USA.
 
 ![image](https://github.com/user-attachments/assets/8c70f7a1-32f0-4805-8c47-297384eca07e)
 
